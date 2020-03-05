@@ -1,3 +1,2 @@
-credentials:
-  system:
-    domainCredentials:
+jenkins:
+  systemMessage: hello there
